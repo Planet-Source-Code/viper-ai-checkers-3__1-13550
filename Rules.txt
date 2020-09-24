@@ -1,0 +1,87 @@
+These rules (as supplied by Ulli) will be implemented as soon as possible.
+Anyone who would like to help develop the code further is welcome to (please contact dioxic@madasafish.com if interested).
+A version of checkers with most (or all) of these rules should be ready in 1 or 2 weeks time!
+
+
+International Checker Rules
+------------------------------------------------------------------------------
+ 
+I
+International checkers is played on the dark squares only of a checkerboard 
+of 100 alternating dark and light squares, (ten rows, ten columns) by two 
+opponents having 20 checkers each of contrasting colours, normally referred to 
+as black and white. 
+
+II
+The board is positioned squarely between the players and turned so that a 
+dark square is at each player's near left side. Each player places his 
+checkers on the dark squares of the four rows nearest him. The player with 
+the lighter checkers makes the first move of the game, and the players take 
+turns thereafter, making one move at a time.
+
+III
+The object of the game is to prevent the opponent from being able to move 
+when it is his turn to do so. This is accomplished either by capturing all of 
+the opponent's checkers, or by blocking those that remain so that none of 
+them can be moved. If neither player can accomplish this, the game is a draw.
+
+IV
+Single checkers, known as men, move forward only, one square at a time in a 
+diagonal direction, to an unoccupied square. Men capture by jumping over an 
+opposing man on a diagonally adjacent square to the square immediately 
+beyond, but may do so only if this square is unoccupied. Men may jump forward 
+or backward, and may continue jumping as long as they encounter opposing 
+checkers with unoccupied squares immediately beyond them. Men may never jump 
+over checkers of the same colour.
+
+V
+A man which reaches the far side of the board becomes a King. However, if it 
+reaches the far side by means of a jump, and is able to jump backward away 
+from the far side over another man or King, it must do so, and does not 
+become a King. A man reaching the far side by jumping becomes a King only if 
+its jump, or series of jumps, terminates there. When a man becomes a King the 
+turn to move passes to the other player, who must crown the new King by 
+placing a checker of the same colour atop it. A player is not permitted to 
+make his own move until he crowns his opponent's King.
+
+VI
+Kings move forward or backward any number of squares on a diagonal line to an 
+unoccupied square. Kings capture from any distance along a diagonal line by 
+jumping, forward or backward, over an opposing man or king with at least one 
+unoccupied square immediately beyond it. The capturing King then lands on any 
+one of these unoccupied squares (except as noted in rule 7) and continues 
+jumping, if possible, either on the same line, or by making a right angle 
+turn onto another diagonal line. Kings may never jump over checkers of the 
+same colour.
+
+VII
+Whenever a player is able to make a capture he must do so. When there is more 
+than one way to jump, a player must choose a sequence of jumps which results 
+in the capture of the greatest possible number of opposing units, men and 
+Kings each counting as one unit. A "HUFF" of a checker for failure to jump 
+properly is not permitted. The incorrect move must be retracted, and a 
+correct move must be made. If possible, the correct move must be made with 
+the man or King originally moved incorrectly.
+
+VIII
+A man or King may not jump over the same opposing man or King more than once.
+
+IX
+Captured checkers are not removed from the board until all jumps made on the 
+move are completed, and the hand is removed from the capturing man or 
+King.(It is only in rare instances that rules 8 or 9 affect the play of a 
+game. They can have the effect of reducing the number of captures possible on 
+a move. In most of these cases a King is the capturing piece. On very rare 
+occasions these rules, either separately or in combination, will result in a 
+King being forced to terminate a series of jumps on a square from which it 
+will then be captured by an opposing man or King which itself would have been 
+captured were it not for these rules.)
+
+X
+Time limits for play are based on a fixed amount of time for a given number 
+of moves, without regard to how much of this time is used on any one move. 
+When the given number of moves has been made by each player, with neither 
+having used up the allotted time, an additional allotment of time and moves 
+is given to each. This continues until the conclusion of the game. Unused 
+time is retained when a new allotment is given. A player loses a game if his 
+time expires before he has completed the required number of moves.
